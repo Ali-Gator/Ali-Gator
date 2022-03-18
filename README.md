@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Oleg
 #### I am frontend-developer
-<img src="https://raw.githubusercontent.com/Ali-Gator/rsschool-cv/gh-pages/1.jpg" width="200" height="200" />
+<img src="https://daningjulian.files.wordpress.com/2012/02/cropped-blog-header1.jpg"  />
 
 I fall in love with the front-end when, as a customer, I encountered difficulties in understanding business tasks by performers and their formal approach to development. I like to create clean code and see the result.
 
