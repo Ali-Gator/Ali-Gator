@@ -17,4 +17,17 @@ Skills: HTML / CSS / BEM / JavaScript / JSON / React.js / Git / Webpack / Figma
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ali-Gator)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/oleg-gordienov//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18083894/oleg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/oleg_ily)  
 
+#### Some graphics
+
+[![Codewarrior Profile Badges](https://www.codewars.com/users/Ali-Gator/badges/large)](https://www.codewars.com/users/Ali-Gator)
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Ali-Gator&show_icons=true">
+  <img  align="left" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Ali-Gator&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Gator&layout=compact">
+  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Gator&layout=compact" />
+</a>
+</div>
+
 
