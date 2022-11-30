@@ -7,7 +7,7 @@ Work in an agile environment with the developers and other team members to devel
 
 #### Skills
 
-* Javascript (React, Redux, Effector, Sockets) 
+* Javascript (Typescript, React, Redux, Effector, Sockets) 
 * CSS (BEM, SASS)
 * Node (Express.js, jwt)
 * Jest, Chai, Mocha, Hermione
