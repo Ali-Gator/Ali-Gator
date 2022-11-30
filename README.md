@@ -1,15 +1,19 @@
-### Hi there 👋, my name is Oleg
+### Hello 👋, my name is Oleg
 #### I am frontend-developer
 <img src="./banner.jpg"  />
 
-I fall in love with the front-end when, as a customer, I encountered difficulties in understanding business tasks by performers and their formal approach to development. I like to create clean code and see the result.
-
-I follow the news from the world of Frontend, listen to podcasts, read articles and educational literature. Participated in the final of the Digital Hackathon 2019 in Kazan.
-
-I love to travel, visited 15 countries.
+with few years of relevant experience in developing user interfaces.
+Work in an agile environment with the developers and other team members to develop innovative frontend solutions. 
 
 #### Skills
-HTML / CSS / BEM / JavaScript / JSON / React.js / Git / Webpack / Figma
+
+* Javascript (React, Redux, Effector, Sockets) 
+* CSS (BEM, SASS)
+* Node (Express.js, jwt)
+* Jest, Chai, Mocha, Hermione
+* MongoDB, PostgreSQL
+* Agile
+* Git (git-flow) 
 
 #### Some graphics
 
